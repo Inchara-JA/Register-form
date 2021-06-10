@@ -1,4 +1,4 @@
-# Register-form
+# Registration-form
 
 *Pre-requisites:Python,Django framework.
 
